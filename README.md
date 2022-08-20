@@ -1,5 +1,5 @@
 # CoinMonitor-JAVA-GUI
 This project is related to crypto currency related data ...
 This is a java program which has conecpt of classes & objects , API call , JSON data deserialization & serialization along with GUI for interation and a window displaying Graph ... it is a toy java project to begin with which can surely be improved by integrating more & many different of GUI components like dropdown-button for currencies and better error handling message dialog box , which are more specific where and what the actual eception , error or problem  is ...
-The graph created is a growwth chart of the crypto-coin or crypto-currency over past 30 days 
+The graph created is a growth chart of the crypto-coin or crypto-currency over past 30 days 
 If u can improve it please do so and make it better , and all the best!!!
